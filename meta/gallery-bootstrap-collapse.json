@@ -1,0 +1,10 @@
+{
+    "bootsgtrap-gallery-collapse": {
+        "use": [
+            "plugin",
+            "transition",
+            "event",
+            "event-delegate"
+        ]
+    }
+}
